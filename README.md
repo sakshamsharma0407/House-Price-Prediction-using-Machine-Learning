@@ -150,12 +150,19 @@ Open the notebook and run the cells sequentially.
 
 ## 🎯 Future Improvements
 Build a Streamlit web application
+
 Add predicted-vs-actual visualizations
+
 Perform detailed residual analysis
+
 Add feature-importance visualizations
+
 Experiment with additional ensemble models
+
 Separate preprocessing, training, and prediction into Python modules
+
 Deploy the model for online predictions
+
 ## 👨‍💻 Author
 
 Saksham Sharma

@@ -89,11 +89,11 @@ R² measures how much of the variation in house prices is explained by the model
 
 | Model | RMSE | R² |
 |---|---:|---:|
-| Linear Regression | — | — |
-| Decision Tree | — | — |
-| Random Forest | — | — |
+| Linear Regression |**0.128575** |**0.195192**|
+| Decision Tree | **0.051708** | **0.827173**|
+| Random Forest |**0.027610**| **0.827173**|
 | Gradient Boosting | **0.1478** | **0.8633** |
-| XGBoost | — | — |
+| XGBoost | **0.022158** | **0.861303** |
 
 ## 🔧 Hyperparameter Tuning
 

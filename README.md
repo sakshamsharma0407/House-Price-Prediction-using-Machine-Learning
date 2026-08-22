@@ -164,6 +164,6 @@ B.Tech Computer Science Engineering Student
 
 Interested in Machine Learning, Data Science, and Software Development.
 
-📜 License
+## 📜 License
 
 This project is intended for educational and portfolio purposes.
